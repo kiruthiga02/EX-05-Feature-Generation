@@ -196,6 +196,7 @@ df5
 ![image](https://user-images.githubusercontent.com/98682825/174450656-51bd18a5-33fe-47df-b4c6-667f47d2f83d.png)
 ![image](https://user-images.githubusercontent.com/98682825/174450724-a742e0bc-3cca-4cd7-8e8b-cbdbd6d1674b.png)
 
-
+## Result:
+ Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
 
 
